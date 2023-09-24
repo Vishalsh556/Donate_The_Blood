@@ -1,8 +1,8 @@
-Title: "Empowering Blood Donation through PHP, HTML, CSS, and jQuery"
+Title: "Empowering Blood Donation through PHP, HTML, CSS and bootstrap"
 
 # Abstract:
 
-The "Empowering Blood Donation" project is a web-based initiative developed using PHP, HTML, CSS, and jQuery technologies, with the primary goal of enhancing the efficiency and accessibility of blood donation processes. This project integrates innovative digital solutions to streamline donor management, encourage regular blood donation, and facilitate real-time blood inventory tracking.
+The "Empowering Blood Donation" project is a web-based initiative developed using PHP, HTML, CSS and bootstrap technologies, with the primary goal of enhancing the efficiency and accessibility of blood donation processes. This project integrates innovative digital solutions to streamline donor management, encourage regular blood donation, and facilitate real-time blood inventory tracking.
 
 # Key features of the project include:
 
@@ -23,4 +23,4 @@ HTML and CSS are used to ensure that the web application is mobile-responsive, e
 
 
 # Conclusion:-
-This project represents an innovative approach to blood donation management, leveraging PHP, HTML, CSS, and jQuery to create a cohesive digital ecosystem that empowers donors, enhances awareness, and optimizes the utilization of precious blood resources, ultimately saving lives and promoting public health
+This project represents an innovative approach to blood donation management, leveraging PHP, HTML, CSS, and bootstrap to create a cohesive digital ecosystem that empowers donors, enhances awareness, and optimizes the utilization of precious blood resources, ultimately saving lives and promoting public health
